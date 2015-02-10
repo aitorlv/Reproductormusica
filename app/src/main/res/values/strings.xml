@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Reproductor "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reproductor">Reproductor</string>
+    <string name="action_ultima">Última canción</string>
+    <string name="action_primera">Primera canción</string>
+
+</resources>
