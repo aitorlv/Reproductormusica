@@ -240,8 +240,8 @@ public class Servicio extends Service implements MediaPlayer.OnPreparedListener,
         PendingIntent pi=PendingIntent.getActivity(this, 0,
                 i, 0);
 
-        note.setLatestEventInfo(this, "Fake Player",
-                "Now Playing: \"Ummmm, Nothing\"",
+        note.setLatestEventInfo(this, "Reproducto",
+                "reproduciendo",
                 pi);
         note.flags|=Notification.FLAG_NO_CLEAR;
 
